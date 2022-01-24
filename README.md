@@ -52,5 +52,7 @@ The drawback of the website and the design is that the parameter of the searches
 
 - 2 further developments:
 
+The 2 different ways we would be able to further develop the site are that including a button on the bottom of the search filters to be able to clear everything in the filters, that would help make the website more user friendly. The second way to improve is to add a drop down on the filters to help show the users how they can filter the different search bars. Having the code to be able to update as soon as new data has been added. 
+
 
 
