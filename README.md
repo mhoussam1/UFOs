@@ -46,5 +46,11 @@ In order to perform their analysis, the users will be able to filter the UFO sig
 
 ## Analysis:
 
+- Drawback:
+
+The drawback of the website and the design is that the parameter of the searches and filters done is not clear to the user, so it is difficult for the user to know exactly what to search for.  
+
+- 2 further developments:
+
 
 
